@@ -1,38 +1,45 @@
-# 🏓 Ping Pong Game (Python)
+# 🏓 Ping Pong Game (Python + Turtle)
 
-A simple **Ping Pong Game** built using **Python's Turtle graphics module**.  
-This project recreates the classic Pong game where two players control paddles and try to hit the ball back and forth.
+A simple **Ping Pong Game** built using Python’s **Turtle graphics** module.  
+This project is a fun way to practice Python basics while building a playable two-player game.  
 
 ---
 
 ## 🚀 Features
-- Two-player gameplay (Player A and Player B).
+- Two-player mode (Left paddle vs Right paddle).
+- Ball bounces off the walls and paddles.
 - Score tracking system.
-- Ball movement with bounce effect on walls.
-- Paddle collision detection.
-- Easy-to-understand Python code for beginners.
+- Simple and clean UI with Turtle graphics.
+- Beginner-friendly project.
 
 ---
 
 ## 🎮 Controls
 - **Player A (Left Paddle):**
-  - `W` → Move paddle up  
-  - `S` → Move paddle down  
+  - `W` → Move Up  
+  - `S` → Move Down  
 
 - **Player B (Right Paddle):**
-  - `↑` (Up Arrow) → Move paddle up  
-  - `↓` (Down Arrow) → Move paddle down  
+  - `↑` (Up Arrow) → Move Up  
+  - `↓` (Down Arrow) → Move Down  
 
 ---
 
 ## 📦 Requirements
-- Python 3.x  
-- Turtle (comes pre-installed with Python)
+- Python **3.x**
+- **Turtle module** (comes pre-installed with Python)
 
 ---
 
 ## ⚡ How to Run
-1. Clone or download this repository:  
-   ```bash
-   git clone https://github.com/Ayushb10212/ping_pong.git
-   cd ping_pong
+Clone this repository and run the game:
+
+```bash
+# Clone the repository
+git clone https://github.com/Ayush10212/ping_pong.git
+
+# Navigate into the project folder
+cd ping_pong
+
+# Run the game
+python main.py
