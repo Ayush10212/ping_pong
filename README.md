@@ -34,5 +34,5 @@ This project recreates the classic Pong game where two players control paddles a
 ## ⚡ How to Run
 1. Clone or download this repository:  
    ```bash
-   git clone https://github.com/your-username/ping-pong-game.git
-   cd ping-pong-game
+   git clone https://github.com/your-username/ping_pong.git
+   cd ping_pong
